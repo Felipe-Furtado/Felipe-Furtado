@@ -7,7 +7,7 @@ Medical Doctor and data nerd. Seeking to improve my data skills and share person
 <h2>Contact:</h2>
 :email:<a href="mailto:ffurtado1@mgh.harvard.edu?subject=Cool GitHub Profile!">&nbsp Email  </a>  
 <br>
-<a href="linkedin.com/in/felipefurtadomd/">LinkedIn</href>
+[LinkedIn](linkedin.com/in/felipefurtadomd/)
 <!---
 Felipe-Furtado/Felipe-Furtado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
