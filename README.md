@@ -1,13 +1,5 @@
-<h1>Bio</h1>
-Medical Doctor and data nerd. Seeking to improve my data skills and share personal projects.
-<br><h2>Languages:</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
-<h2>Contact:</h2>
-:email:<a href="mailto:ffurtado1@mgh.harvard.edu?subject=Cool GitHub Profile!">&nbsp Email  </a>  
-<br>
-<a href='https://www.linkedin.com/in/felipefurtadomd/'>LinkedIn</a>
-<!---
-Felipe-Furtado/Felipe-Furtado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MD and MBA. Background in critical care medicine and clinical research.
+
+Work here is mostly Python and R — data analysis, financial modeling, and a few older research projects from my time in medicine. 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipefurtadomd-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipefurtadomd/)
