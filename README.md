@@ -1,5 +1,5 @@
 MD and MBA. Background in critical care medicine and clinical research.
 
-Work here is mostly Python and R — data analysis, financial modeling, and a few older research projects from my time in medicine. 
+Currently exploring AI-assisted development of skills and micro-apps for personal use.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felipefurtadomd-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipefurtadomd/)
